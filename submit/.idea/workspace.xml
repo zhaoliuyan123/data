@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a89b37b6-f7db-4bd3-b907-fc9696fe3fb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="submit" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQyw2IVKUNgNISMpKwqGV2O54F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\submit\abbr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py\submit\package" />
+      <recent name="D:\submit\login" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="submit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abbr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abbr/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="submit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/userAdmin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/userAdmin/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="submit" type="Python.DjangoServer" factoryName="Django server">
+      <module name="submit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a89b37b6-f7db-4bd3-b907-fc9696fe3fb5" name="Default Changelist" comment="" />
+      <created>1580992847229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580992847229</updated>
+      <workItem from="1580992854320" duration="13050000" />
+      <workItem from="1581051266274" duration="35163000" />
+      <workItem from="1581138038274" duration="43698000" />
+      <workItem from="1581225157784" duration="24514000" />
+      <workItem from="1581310957361" duration="17620000" />
+      <workItem from="1581395983399" duration="997000" />
+      <workItem from="1581405843451" duration="164000" />
+      <workItem from="1581413827697" duration="15713000" />
+      <workItem from="1581489308230" duration="3742000" />
+      <workItem from="1581516632038" duration="895000" />
+      <workItem from="1581560974493" duration="1218000" />
+      <workItem from="1581565120800" duration="11957000" />
+      <workItem from="1581658621874" duration="10091000" />
+      <workItem from="1581742354486" duration="3423000" />
+      <workItem from="1581746840387" duration="29520000" />
+      <workItem from="1581781468382" duration="3361000" />
+      <workItem from="1581826125563" duration="26672000" />
+      <workItem from="1581915182807" duration="26023000" />
+      <workItem from="1581999527717" duration="7380000" />
+      <workItem from="1582015696531" duration="19652000" />
+      <workItem from="1582088740812" duration="19361000" />
+      <workItem from="1582122396276" duration="2389000" />
+      <workItem from="1582124825307" duration="176000" />
+      <workItem from="1582177874846" duration="8906000" />
+      <workItem from="1582188532652" duration="4004000" />
+      <workItem from="1582272249097" duration="3747000" />
+      <workItem from="1582345918422" duration="1316000" />
+      <workItem from="1582519435859" duration="10363000" />
+      <workItem from="1582608348485" duration="5032000" />
+      <workItem from="1582683034896" duration="5401000" />
+      <workItem from="1582778322079" duration="1085000" />
+      <workItem from="1582866788691" duration="599000" />
+      <workItem from="1582876527492" duration="8251000" />
+      <workItem from="1582954516184" duration="1630000" />
+      <workItem from="1582971348616" duration="1295000" />
+      <workItem from="1583037288365" duration="1774000" />
+      <workItem from="1583126152028" duration="1773000" />
+      <workItem from="1583127955149" duration="2021000" />
+      <workItem from="1584168459743" duration="6000" />
+      <workItem from="1584168487705" duration="134000" />
+      <workItem from="1584168881706" duration="1230000" />
+      <workItem from="1584321725915" duration="33000" />
+      <workItem from="1584330368577" duration="4323000" />
+      <workItem from="1584430430026" duration="4398000" />
+      <workItem from="1584493019311" duration="5827000" />
+      <workItem from="1584512288877" duration="12376000" />
+      <workItem from="1584579301088" duration="5070000" />
+      <workItem from="1585106571701" duration="606000" />
+      <workItem from="1586061063303" duration="650000" />
+      <workItem from="1586071927571" duration="19000" />
+      <workItem from="1586072386936" duration="1208000" />
+      <workItem from="1586165037389" duration="32000" />
+      <workItem from="1586238292859" duration="846000" />
+      <workItem from="1586241883052" duration="3049000" />
+      <workItem from="1586699804339" duration="9000" />
+      <workItem from="1586750669280" duration="2789000" />
+      <workItem from="1586832867726" duration="648000" />
+      <workItem from="1586837048301" duration="1242000" />
+      <workItem from="1587095810882" duration="23000" />
+      <workItem from="1590478915932" duration="816000" />
+      <workItem from="1590479821378" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="204" key="FileChooserDialogImpl" timestamp="1590479687393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="204" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590479687393" />
+    <state x="752" y="257" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584598261421" />
+    <state x="364" y="56" key="SettingsEditor" timestamp="1586241910640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="364" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586241910640" />
+    <state x="455" y="71" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584512323646" />
+    <state x="514" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1587095811189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587095811189" />
+    <state x="643" y="310" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584494990894" />
+  </component>
+</project>
